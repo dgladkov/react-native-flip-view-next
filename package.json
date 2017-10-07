@@ -1,0 +1,30 @@
+{
+  "name": "react-native-flip-view-next",
+  "version": "1.0.0",
+  "description": "React Native component that can flip between front and back views",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "flip",
+    "view",
+    "flipview"
+  ],
+  "author": "Dmitry Gladkov <dmitry.gladkov@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgladkov/react-native-flip-view-next.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dgladkov/react-native-flip-view-next/issues"
+  },
+  "homepage": "https://github.com/dgladkov/react-native-flip-view-next#readme",
+  "peerDependencies": {
+    "prop-types": "*",
+    "react": "*",
+    "react-native": "*"
+  }
+}
