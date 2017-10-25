@@ -14,7 +14,7 @@ Based on https://github.com/kevinstumpf/react-native-flip-view
 ## Installation
 
 ```
-$ npm install react-native-flip-view
+$ npm install react-native-flip-view-next
 ```
 
 ## Usage
